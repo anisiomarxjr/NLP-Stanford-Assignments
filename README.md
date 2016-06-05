@@ -1,5 +1,4 @@
 # Natural Language Processing
-## Assignment from Stanford NLP on Coursera By Yichen Gong<br /><br />
 
 ### Current Progress
 
@@ -17,4 +16,3 @@ HW8 | Complete | Implemented the Inverted Index, Boolean Retrieval system, TF-ID
 
 
 
-######Contact me: yg1053@nyu.edu
